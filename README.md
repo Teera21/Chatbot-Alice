@@ -1,5 +1,5 @@
 # Chatbot-Alice
-Get Model From hugging face 
+Get Model From Hugging Face 
 <br>
 https://huggingface.co/
 <br> 
